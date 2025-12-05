@@ -1,8 +1,16 @@
-# Python_Projects
+# Python_Project - Rent Calculator using Python
 
-## Rent_Calculator_in_Python
+## Inputs needed to build the project:
+- Rent for a month (Amount)
+- Number of people
+- Electricity Consumption in Units
+- Charge for unit 
+- Utilities Bills
+- Groceries bills
 
-### inputs needed to build the project
+
+## outputs: 
+- Each person's Amount needed to contribute.
 
 
 
