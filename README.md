@@ -13,6 +13,7 @@
 #### outputs: 
 - Each person's Amount needed to contribute.
 
+---
 
 ## 2. **Rock Paper Scissor*
 
